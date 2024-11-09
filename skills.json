@@ -21,7 +21,7 @@
     },
     {
         "name": ".NET Core",
-        "icon": ".assets/skills/asp-net_core.png"
+        "icon": "./assets/images/skills/asp-net_core.png"
     },
     {
         "name": "Android",
