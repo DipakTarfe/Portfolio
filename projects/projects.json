@@ -1,15 +1,5 @@
 [
   {
-    "name": "E-Krushi Mobile Application",
-    "desc": "Admin Dashboard and Paytm Payment Gateway. Android app",
-    "image": "ekrushi",
-    "category": "android",
-    "links": {
-      "view": "#",
-      "code": "https://github.com/DipakTarfe/E-Krushi-Android-Application"
-    }
-  },
-  {
     "name": "NotyStack Android",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
     "image": "notystackandroid",
