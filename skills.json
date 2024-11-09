@@ -21,15 +21,19 @@
     },
     {
         "name": ".NET Core",
-        "icon": "./assets/images/skills/asp-net_core.png"
-    },
-    {
-        "name": "Android",
-        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
+        "icon": "https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000"
     },
     {
         "name": "MySQL",
         "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+     {
+        "name": "Visual Studio",
+        "icon": "https://img.icons8.com/?size=100&id=48455&format=png&color=000000"
+    },
+     {
+        "name": "Android Studio",
+        "icon": "https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000"
     },
     {
         "name": "GitHub",
