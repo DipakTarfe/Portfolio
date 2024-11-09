@@ -1,12 +1,12 @@
 [
   {
-    "name": "E-Krushi Android Application",
-    "desc": "Developed an Android application for farmers to purchase agricultural products online, Access to weather information, Detect crop diseases. Built using Java, XML, MySQL",
+    "name": "NotyStack Android",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
     "image": "notystackandroid",
     "category": "android",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/DipakTarfe/E-Krushi-Android-Application.git"
+      "code": "https://github.com/jigar-sable/notystack-android"
     }
   }
 ]
