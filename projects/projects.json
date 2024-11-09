@@ -1,7 +1,7 @@
 [
     {
     "name": "E-Krushi Android Application",
-    "desc": "Admin Dashboard and payment getway . Built using Java, XML, MySQL",
+    "desc": "Admin Dashboard and payment getway . Built using Java, XML, MySQL, Android Studio",
     "image": "ekrushi",
     "category": "mern",
     "links": {
