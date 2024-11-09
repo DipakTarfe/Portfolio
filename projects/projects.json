@@ -3,7 +3,7 @@
     "name": "E-Krushi Mobile Application",
     "desc": "Admin Dashboard and Paytm Payment Gateway. Android app",
     "image": "ekrushi",
-    "category": "android",
+    "category": "mern",
     "links": {
       "view": "#",
       "code": "https://github.com/DipakTarfe/E-Krushi-Android-Application"
@@ -13,7 +13,7 @@
     "name": "Vehical Rental",
     "desc": "Full-Stack Vehical Rental with Admin Dashboard. Responsive WebSite",
     "image": "vehicalrental",
-    "category": "android",
+    "category": "mern",
     "links": {
       "view": "#",
       "code": "https://github.com/DipakTarfe/Vehical-Rental"
